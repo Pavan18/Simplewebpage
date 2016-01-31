@@ -1,0 +1,204 @@
+body{
+            background-color: #E1E1E3;
+        }
+        
+        div.main
+        {
+            position: relative;
+            margin-left: auto;
+            margin-right: auto;
+            width: 770px;
+            
+            
+        }
+        
+     div.leftside
+        {
+    position: relative;
+    top: 30px;
+    left: -280px;
+    height: 200px;        
+    width: 226px;
+    background-image: url("side_main.png");
+    margin-left: auto;
+    margin-right: auto; 
+    
+        }
+       h2.first
+        {
+            text-align: right;
+            font-weight:bold;
+            font-family: "Trebuchet MS",Helvetica,sans-serif;
+            position: relative;
+            top: -50px;
+            left: -20px;    
+            
+        }
+        
+        p.second
+        {
+           text-align: right;
+            font-weight:bold;
+            font-family: "Trebuchet MS",Helvetica,sans-serif;
+            position: relative;
+            top: -118px;
+            left: -20px; 
+            line-height: 7px;
+        }
+        a
+        {
+            color: #696969;
+        }
+        
+         p.third
+        {
+           text-align: right;
+            font-weight:bold;
+            font-family: "Trebuchet MS",Helvetica,sans-serif;
+            position: relative;
+            top: -130px;
+            left: -20px; 
+            
+        }
+         p.fourth
+        {
+           text-align: right;
+            font-weight:bold;
+            font-family: "Trebuchet MS",Helvetica,sans-serif;
+            position: relative;
+            top: -140px;
+            left: -20px; 
+            line-height: 7px;
+        }
+        
+         p.fifth
+        {
+           text-align: right;
+            font-weight:bold;
+            font-family: "Trebuchet MS",Helvetica,sans-serif;
+            position: relative;
+            top: -150px;
+            left: -20px; 
+        }
+         p.sixth
+        {
+           text-align: right;
+            font-weight:bold;
+            font-family: "Trebuchet MS",Helvetica,sans-serif;
+            position: relative;
+            top: -160px;
+            left: -20px;
+            line-height: 7px;
+        }
+         p.seventh
+        {
+           text-align: right;
+            font-weight:bold;
+            font-family: "Trebuchet MS",Helvetica,sans-serif;
+            position: relative;
+            top: -170px;
+            left: -20px; 
+        }
+        
+        div.rightside
+        {
+    position: relative;
+    top: -160px;
+    left: 130px;
+    height: 440px;        
+    width: 562px;
+    background-color: white;
+    margin-right: auto;
+    margin-left: auto;
+    
+    
+        }
+        
+           h1.eight
+        {
+            text-align: left;
+            font-weight:bold;
+            font-family: "Trebuchet MS",Helvetica,sans-serif;
+            position: relative;
+            top: -130px;
+            left: 10px;    
+            
+        }
+          h1.nine
+        {
+            text-align: left;
+            font-weight:bold;
+            font-family: "Trebuchet MS",Helvetica,sans-serif;
+            position: relative;
+            top: -189px;
+            left: 96px; 
+            color: #A0A0A0 
+            
+        }
+        
+        h4.ten
+        {
+            text-align: right;
+            font-weight:bold;
+            font-family: "Trebuchet MS",Helvetica,sans-serif;
+            position: relative;
+            top: -340px;
+            left: -45px; 
+            color: lightgray
+        }
+         h3.eleven
+        {
+            text-align: left;
+            font-weight: bolder;
+            font-family: "Trebuchet MS",Helvetica,sans-serif;
+            position: relative;
+            top: -320px;
+            left: 10px;
+            font-size: 21;
+        }
+        
+        p.twelve
+        {
+            text-align: left;
+            font-weight: bolder;
+            font-family: "Trebuchet MS",Helvetica,sans-serif;
+            position: relative;
+            top: -335px;
+            left: 10px;
+            font-size: 12;
+        }
+        
+      
+        h3.thirteen
+        {
+            text-align: left;
+            font-weight: bolder;
+            font-family: "Trebuchet MS",Helvetica,sans-serif;
+            position: relative;
+            top: -320px;
+            left: 10px;
+            font-size: 21;
+        }
+        
+         p.fourteen
+        {
+            text-align: left;
+            font-weight: bolder;
+            font-family: "Trebuchet MS",Helvetica,sans-serif;
+            position: relative;
+            top: 0px;
+            left: 0px;
+            font-size: 12;
+        }
+        
+        p.fifteen
+        {
+            text-align: left;
+            font-weight: bolder;
+            font-family: "Trebuchet MS",Helvetica,sans-serif;
+            position: relative;
+            top: 70px;
+            left: 120px;
+            font-size: 12;
+            color: #696969
+        }
